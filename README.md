@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Machine Learning
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am daily talk to myself in from of the mirror
+- ⚡ Fun fact: I am daily talk to myself in front of the mirror
 -->
